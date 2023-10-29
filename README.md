@@ -1,2 +1,1 @@
 # CSIT883-Quiz
-![Uploading IMG_1824(20231029-170935).PNG…]()
